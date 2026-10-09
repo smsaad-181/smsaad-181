@@ -64,12 +64,4 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smsaad-181&theme=tokyo-night&hide_border=false&area=true&color=C792EA&line=C792EA&point=FF5874&area_color=C792EA" />
-</p>
-
----
-
 <!-- Proudly crafted by Sultan Mahmud Saad -->
