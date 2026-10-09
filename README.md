@@ -72,20 +72,4 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smsaad-181&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 <!-- Proudly crafted by Sultan Mahmud Saad -->
