@@ -16,7 +16,7 @@
 - 🤔 I'm looking for help with &nbsp;**Advanced FPGA Design & High-Speed PCB Layout**
 - 💬 Ask me about &nbsp;**Arduino, Raspberry Pi, Circuit Design, PCB Layout & Embedded C/C++**
 - 📫 How to reach me: &nbsp;**smsaad181@gmail.com**
-- 😄 Pronouns: &nbsp;**He / Him**
+- 😄 Pronouns: &nbsp;**Saad**
 - ⚡ Fun fact: &nbsp;**I can go from a circuit schematic to a working PCB prototype faster than most people finish a cup of coffee ☕**
 
 ---
@@ -60,6 +60,18 @@
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smsaad-181&theme=2077" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=F0A500&text_color=ffffff&border_color=F0A500" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smsaad-181/smsaad-181/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smsaad-181/smsaad-181/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/smsaad-181/smsaad-181/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
