@@ -38,15 +38,15 @@
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Contribution graph (full width) -->
+<!-- Row 1: Full width profile summary with contribution graph -->
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smsaad-181&theme=2077" />
 </p>
 
-<!-- Row 2: Stats card + Streak side by side -->
+<!-- Row 2: Stats card + Streak -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=F0A500&icon_color=F0A500&text_color=ffffff&border_color=F0A500" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=smsaad-181&theme=tokyonight&hide_border=false&background=0D1117&ring=F0A500&fire=F0A500&currStreakLabel=F0A500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=smsaad-181&theme=tokyonight&hide_border=false&background=0D1117&ring=C792EA&fire=FF5874&currStreakLabel=C792EA&sideLabels=C792EA" />
 </p>
 
 <!-- Row 3: Top Languages by Repo + Top Languages by Commit + Commits by hour -->
@@ -56,22 +56,10 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smsaad-181&theme=2077&utcOffset=6" />
 </p>
 
-<!-- Row 4: Summary stats + Streak -->
+<!-- Row 4: Summary stats + Most used languages -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smsaad-181&theme=2077" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=F0A500&text_color=ffffff&border_color=F0A500" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smsaad-181/smsaad-181/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smsaad-181/smsaad-181/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/smsaad-181/smsaad-181/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA" />
 </p>
 
 ---
@@ -79,7 +67,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smsaad-181&theme=tokyo-night&hide_border=false&area=true&color=F0A500&line=F0A500&point=ffffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smsaad-181&theme=tokyo-night&hide_border=false&area=true&color=C792EA&line=C792EA&point=FF5874&area_color=C792EA" />
 </p>
 
 ---
@@ -87,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smsaad-181&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smsaad-181&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" />
 </p>
 
 ---
@@ -95,7 +83,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
