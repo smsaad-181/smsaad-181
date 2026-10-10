@@ -12,7 +12,6 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/smsaad-181?label=Stars&style=for-the-badge&color=FF5874&logo=github&labelColor=0D1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-C792EA?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 ---
@@ -115,8 +114,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=smsaad-181&theme=tokyonight&hide_border=false&background=0D1117&ring=C792EA&fire=FF5874&currStreakLabel=C792EA&sideLabels=C792EA" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smsaad-181&theme=2077" />
+  <img width="58%" src="https://streak-stats.demolab.com/?user=smsaad-181&theme=tokyonight&hide_border=false&background=0D1117&ring=C792EA&fire=FF5874&currStreakLabel=C792EA&sideLabels=C792EA" />
 </p>
 
 <p align="center">
@@ -126,8 +125,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smsaad-181&theme=2077" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=280" />
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=420" />
 </p>
 
 <!-- Footer Banner -->
