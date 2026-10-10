@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smsaad-181&label=Profile+Views&color=C792EA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/smsaad-181?label=Followers&style=for-the-badge&color=C792EA&logo=github" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/smsaad-181?label=Stars&style=for-the-badge&color=FF5874&logo=github" alt="Stars" />
 </p>
 
 ---
