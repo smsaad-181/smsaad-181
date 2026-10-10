@@ -125,8 +125,8 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=280" />
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=420" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
 </p>
 
 <!-- Footer Banner -->
