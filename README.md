@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smsaad-181&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Circuit+Design+%26+PCB+Layout+%F0%9F%94%A7;Embedded+Systems+%26+IoT+%F0%9F%8C%90;Arduino+%26+Raspberry+Pi+%F0%9F%A4%96;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=smsaad-181&label=Profile%20Views&color=6&icon=0&pretty=true" />
 </p>
 
 ---
