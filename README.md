@@ -129,5 +129,15 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
 </p>
 
+---
+
+<!-- Recent Activity Section -->
+![activity](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- Footer Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
