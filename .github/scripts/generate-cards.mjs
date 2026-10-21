@@ -165,14 +165,14 @@ function langsCard() {
 function streakCard() {
   const range = (s) => (s.len ? `${fmtDate(s.start)} - ${fmtDate(s.end)}` : "No streak");
   const col = (cx, value, label, sub, color = C.text) =>
-    `<text x="${cx}" y="95" class="big" text-anchor="middle" fill="${color}" style="fill:${color}">${fmt(value)}</text>
+    `<text x="${cx}" y="86" class="big" text-anchor="middle" fill="${color}" style="fill:${color}">${fmt(value)}</text>
   <text x="${cx}" y="128" class="l" text-anchor="middle" style="fill:${C.title}">${label}</text>
   <text x="${cx}" y="150" class="s" text-anchor="middle">${sub}</text>`;
   const body = `<line x1="165" y1="30" x2="165" y2="165" stroke="${C.muted}" stroke-opacity="0.3"/>
   <line x1="330" y1="30" x2="330" y2="165" stroke="${C.muted}" stroke-opacity="0.3"/>
   ${col(82, totalContributions, "Total Contributions", `${fmtDate(firstDay)} - Present`)}
-  <circle cx="247" cy="82" r="40" fill="none" stroke="${C.border}" stroke-width="5"/>
-  <text x="247" y="38" text-anchor="middle" font-size="20">🔥</text>
+  <circle cx="247" cy="76" r="34" fill="none" stroke="${C.border}" stroke-width="5"/>
+  <text x="247" y="40" text-anchor="middle" font-size="18" style="paint-order:stroke" stroke="${C.bg}" stroke-width="6">🔥</text>
   ${col(247, current.len, "Current Streak", range(current))}
   ${col(412, longest.len, "Longest Streak", range(longest))}`;
   return frame(495, 195, "", body);

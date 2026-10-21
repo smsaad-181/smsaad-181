@@ -110,23 +110,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smsaad-181&theme=2077" />
+  <img width="100%" src="./profile-summary-card-output/2077/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smsaad-181&theme=2077" />
-  <img width="58%" src="https://streak-stats.demolab.com/?user=smsaad-181&theme=tokyonight&hide_border=false&background=0D1117&ring=C792EA&fire=FF5874&currStreakLabel=C792EA&sideLabels=C792EA" />
+  <img width="40%" src="./profile-summary-card-output/2077/3-stats.svg" />
+  <img width="58%" src="./cards/streak.svg" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smsaad-181&theme=2077" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smsaad-181&theme=2077" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smsaad-181&theme=2077&utcOffset=6" />
+  <img width="32%" src="./profile-summary-card-output/2077/1-repos-per-language.svg" />
+  <img width="32%" src="./profile-summary-card-output/2077/2-most-commit-language.svg" />
+  <img width="32%" src="./profile-summary-card-output/2077/4-productive-time.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
+  <img width="49%" src="./cards/stats.svg" />
+  <img width="49%" src="./cards/top-langs.svg" />
 </p>
 
 <!-- Footer Banner -->
