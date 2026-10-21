@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/smsaad-181?label=Followers&style=for-the-badge&color=C792EA&logo=github&labelColor=0D1117" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/smsaad-181?label=Stars&style=for-the-badge&color=FF5874&logo=github&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/smsaad-181?label=Stars&style=for-the-badge&color=FF5874&logo=github&labelColor=0D1117" alt="Stars" />
 </p>
 
 ---
