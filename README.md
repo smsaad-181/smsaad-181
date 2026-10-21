@@ -109,11 +109,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- Generated daily by .github/workflows/metrics.yml, includes private repo activity -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/smsaad-181/smsaad-181/main/github-metrics.svg" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smsaad-181&theme=2077" />
 </p>
