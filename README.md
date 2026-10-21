@@ -8,10 +8,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/smsaad-181?label=Followers&style=for-the-badge&color=C792EA&logo=github&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/smsaad-181?label=Followers&style=for-the-badge&color=C792EA&logo=github&labelColor=0D1117" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/smsaad-181?label=Stars&style=for-the-badge&color=FF5874&logo=github&labelColor=0D1117" />
-  &nbsp;
 </p>
 
 ---
@@ -110,23 +109,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/2077/0-profile-details.svg" />
+  <img width="100%" src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img width="40%" src="./profile-summary-card-output/2077/3-stats.svg" />
-  <img width="58%" src="./cards/streak.svg" />
+  <img width="40%" src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats summary" />
+  <img width="58%" src="./cards/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="32%" src="./profile-summary-card-output/2077/1-repos-per-language.svg" />
-  <img width="32%" src="./profile-summary-card-output/2077/2-most-commit-language.svg" />
-  <img width="32%" src="./profile-summary-card-output/2077/4-productive-time.svg" />
+  <img width="32%" src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="32%" src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most commit language" />
+  <img width="32%" src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./cards/stats.svg" />
-  <img width="49%" src="./cards/top-langs.svg" />
+  <img width="49%" src="./cards/stats.svg" alt="GitHub stats" />
+  <img width="49%" src="./cards/top-langs.svg" alt="Most used languages" />
 </p>
 
 <!-- Footer Banner -->
