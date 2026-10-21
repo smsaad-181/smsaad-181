@@ -104,30 +104,6 @@
 
 ---
 
-<!-- Featured Projects Section -->
-![projects](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🌡️ [ESP32 IR Thermal Camera](https://github.com/smsaad-181/ESP32-MLX90640-IR-Thermal-Camera-V1.0) | Thermal imaging camera using the MLX90640 IR sensor | ESP32 · C++ |
-| 🚗 [IoT Vehicle Motion Analyzer](https://github.com/smsaad-181/ESP32-IoT-Vehicle-Motion-Analyzer-With-MPU6050-LIS3MDL-V1.0) | Vehicle motion analysis with MPU6050 + LIS3MDL sensors | ESP32 · C++ |
-| 🗳️ [Fingerprint Voting Machine](https://github.com/smsaad-181/Fingerprint-Voting-Machine-V1.0) | Fingerprint-authenticated electronic voting machine | ESP32 · HTML |
-| 🔋 [Battery SoC Monitor](https://github.com/smsaad-181/IoT-based-Battery-SoC-Monitoring-System-with-ESP32) | IoT battery state-of-charge (%) monitoring system | ESP32 · C++ |
-| 🏠 [4-Channel Relay for Home Assistant](https://github.com/smsaad-181/4-Channel-Relay-TH-V1.0-Home-Assistant) | 4-channel relay board integrated with Home Assistant | C++ · Home Assistant |
-| 🔬 [Component Tester](https://github.com/smsaad-181/Component-Tester-V1.0) | Electronic component tester | C++ |
-| ⏰ [ATmega328P RTC Clock](https://github.com/smsaad-181/Clock-with-ATmega328P-and-RTC-) | Standalone digital clock with DS1307 RTC and 7-segment displays | ATmega328P · C++ |
-| 🏃 [IoT Activity Tracker](https://github.com/smsaad-181/IoT-Activity-Tracker-Accelerometer-Gyroscope) | Activity tracking with accelerometer + gyroscope | ESP32 · C++ |
-
-<p align="center">
-  <a href="https://github.com/smsaad-181?tab=repositories">
-    <img src="https://img.shields.io/badge/See_all_repositories-C792EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-</p>
-
----
-
 <!-- GitHub Stats Section -->
 ![stats](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
 
@@ -152,26 +128,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=smsaad-181&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsaad-181&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&bg_color=0D1117&title_color=C792EA&text_color=ffffff&border_color=C792EA&card_width=380" />
 </p>
-
----
-
-<!-- Recent Activity Section -->
-![activity](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🔨 Pushed to [Fingerprint-Voting-Machine-V1.0](https://github.com/smsaad-181/Fingerprint-Voting-Machine-V1.0) <sub>· 2026-10-21</sub>
-2. 🌍 Made [Component-Tester-V1.0](https://github.com/smsaad-181/Component-Tester-V1.0) public <sub>· 2026-10-20</sub>
-3. 🌍 Made [Fingerprint-Voting-Machine-V1.0](https://github.com/smsaad-181/Fingerprint-Voting-Machine-V1.0) public <sub>· 2026-10-20</sub>
-4. 🌍 Made [ESP32-IoT-Vehicle-Motion-Analyzer-With-MPU6050-LIS3MDL-V1.0](https://github.com/smsaad-181/ESP32-IoT-Vehicle-Motion-Analyzer-With-MPU6050-LIS3MDL-V1.0) public <sub>· 2026-10-19</sub>
-5. 🌍 Made [ESP32-MLX90640-IR-Thermal-Camera-V1.0](https://github.com/smsaad-181/ESP32-MLX90640-IR-Thermal-Camera-V1.0) public <sub>· 2026-10-18</sub>
-6. 🔨 Pushed to [IoT-Activity-Tracker-Accelerometer-Gyroscope](https://github.com/smsaad-181/IoT-Activity-Tracker-Accelerometer-Gyroscope) <sub>· 2026-10-17</sub>
-7. 🌍 Made [IoT-Activity-Tracker-Accelerometer-Gyroscope](https://github.com/smsaad-181/IoT-Activity-Tracker-Accelerometer-Gyroscope) public <sub>· 2026-10-17</sub>
-8. 🌍 Made [Simon-Memory-game-V1.2](https://github.com/smsaad-181/Simon-Memory-game-V1.2) public <sub>· 2026-10-14</sub>
-9. 🔨 Pushed to [Simon-Memory-game-V1](https://github.com/smsaad-181/Simon-Memory-game-V1) <sub>· 2026-10-12</sub>
-10. 🔨 Pushed to [IoT-based-Battery-SoC-Monitoring-System-with-ESP32](https://github.com/smsaad-181/IoT-based-Battery-SoC-Monitoring-System-with-ESP32) <sub>· 2026-10-11</sub>
-<!--END_SECTION:activity-->
 
 <!-- Footer Banner -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
