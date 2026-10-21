@@ -2,8 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: "*/30 * * * *"
+    # Runs every 5 minutes (GitHub minimum); only commits when stats actually change
+    - cron: "*/5 * * * *"
   push:
     branches:
       - main
