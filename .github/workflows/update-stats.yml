@@ -1,0 +1,50 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch: # allows manual trigger from GitHub Actions UI
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    name: Generate stat cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Actions pinned to commit SHAs so upstream changes can't alter what runs with write access
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@58ec032e39377dd38329bdc1db70074fe74fbb17 # release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: smsaad-181
+          UTC_OFFSET: 6
+          THEME: "2077"
+          AUTO_PUSH: false
+
+      - name: Generate stats, languages and streak cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/generate-cards.mjs
+
+      - name: Commit if changed
+        run: |
+          git add cards profile-summary-card-output
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "📊 Auto-update: GitHub stats"
+          git pull --rebase origin main
+          git push
