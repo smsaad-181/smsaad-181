@@ -17,13 +17,18 @@ jobs:
       contents: write
 
     steps:
-      # Actions pinned to commit SHAs so upstream changes can't alter what runs with write access
+      # Pinned to a commit SHA so upstream changes can't alter what runs with write access
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
-      - name: Update GitHub Activity
-        uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
+      - name: Update activity section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "⚡ Auto-update: recent GitHub activity"
-          MAX_LINES: 10
+        run: node .github/scripts/update-activity.mjs
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "⚡ Auto-update: recent GitHub activity"
+          git push
