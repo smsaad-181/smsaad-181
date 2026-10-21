@@ -24,10 +24,12 @@ jobs:
       # Actions pinned to commit SHAs so upstream changes can't alter what runs with write access
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
+      # STATS_TOKEN (optional) is a read-only fine-grained token so private repos are counted.
+      # It is only used to read stats; the commit below is pushed with the built-in GITHUB_TOKEN.
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@58ec032e39377dd38329bdc1db70074fe74fbb17 # release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: smsaad-181
           UTC_OFFSET: 6
@@ -36,7 +38,7 @@ jobs:
 
       - name: Generate stats, languages and streak cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: node .github/scripts/generate-cards.mjs
 
       - name: Commit if changed

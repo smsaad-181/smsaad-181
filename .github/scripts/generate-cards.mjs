@@ -1,5 +1,5 @@
 // Generates stats, top-languages and streak SVG cards into ./cards from the GitHub GraphQL API.
-// Runs on GitHub Actions (Node 20+) with GITHUB_TOKEN.
+// Runs on GitHub Actions (Node 20+) with GITHUB_TOKEN; a read-only STATS_TOKEN secret, if set, adds private repos.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const USER = process.env.CARDS_USER || "smsaad-181";
@@ -129,7 +129,7 @@ function statsCard() {
     ["📝", "Total Commits", totalCommits],
     ["🔀", "Total PRs", user.pullRequests.totalCount],
     ["❗", "Total Issues", user.issues.totalCount],
-    ["📦", "Public Repos", user.repositories.totalCount],
+    ["📦", "Total Repos", user.repositories.totalCount],
     ["👥", "Followers", user.followers.totalCount],
   ];
   const body = rows
