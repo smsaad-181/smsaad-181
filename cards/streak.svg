@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="">
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C792EA; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9AA5CE; }
+    .big { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#0D1117" stroke="#C792EA"/>
+  
+  <line x1="165" y1="30" x2="165" y2="165" stroke="#9AA5CE" stroke-opacity="0.3"/>
+  <line x1="330" y1="30" x2="330" y2="165" stroke="#9AA5CE" stroke-opacity="0.3"/>
+  <text x="82" y="95" class="big" text-anchor="middle" fill="#FFFFFF" style="fill:#FFFFFF">87</text>
+  <text x="82" y="128" class="l" text-anchor="middle" style="fill:#C792EA">Total Contributions</text>
+  <text x="82" y="150" class="s" text-anchor="middle">Jan 22, 2025 - Present</text>
+  <circle cx="247" cy="82" r="40" fill="none" stroke="#C792EA" stroke-width="5"/>
+  <text x="247" y="38" text-anchor="middle" font-size="20">🔥</text>
+  <text x="247" y="95" class="big" text-anchor="middle" fill="#FFFFFF" style="fill:#FFFFFF">5</text>
+  <text x="247" y="128" class="l" text-anchor="middle" style="fill:#C792EA">Current Streak</text>
+  <text x="247" y="150" class="s" text-anchor="middle">Oct 17, 2026 - Oct 21, 2026</text>
+  <text x="412" y="95" class="big" text-anchor="middle" fill="#FFFFFF" style="fill:#FFFFFF">7</text>
+  <text x="412" y="128" class="l" text-anchor="middle" style="fill:#C792EA">Longest Streak</text>
+  <text x="412" y="150" class="s" text-anchor="middle">Oct 6, 2026 - Oct 12, 2026</text>
+</svg>

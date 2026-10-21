@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="225" viewBox="0 0 380 225" role="img" aria-label="Sultan Mahmud Saad&#39;s GitHub Stats">
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C792EA; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9AA5CE; }
+    .big { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="379" height="224" fill="#0D1117" stroke="#C792EA"/>
+  <text x="25" y="35" class="t">Sultan Mahmud Saad&#39;s GitHub Stats</text>
+  <text x="25" y="70" class="l">⭐  Total Stars:</text><text x="355" y="70" class="v" text-anchor="end">0</text>
+  <text x="25" y="96" class="l">📝  Total Commits:</text><text x="355" y="96" class="v" text-anchor="end">69</text>
+  <text x="25" y="122" class="l">🔀  Total PRs:</text><text x="355" y="122" class="v" text-anchor="end">0</text>
+  <text x="25" y="148" class="l">❗  Total Issues:</text><text x="355" y="148" class="v" text-anchor="end">0</text>
+  <text x="25" y="174" class="l">📦  Public Repos:</text><text x="355" y="174" class="v" text-anchor="end">17</text>
+  <text x="25" y="200" class="l">👥  Followers:</text><text x="355" y="200" class="v" text-anchor="end">0</text>
+</svg>

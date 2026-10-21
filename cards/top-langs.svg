@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="225" viewBox="0 0 380 225" role="img" aria-label="Most Used Languages">
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C792EA; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9AA5CE; }
+    .big { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="379" height="224" fill="#0D1117" stroke="#C792EA"/>
+  <text x="25" y="35" class="t">Most Used Languages</text>
+  <clipPath id="r"><rect x="25" y="55" width="330" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="55" width="257.50" height="8" fill="#3178c6"/><rect x="282.50" y="55" width="31.38" height="8" fill="#e34c26"/><rect x="313.89" y="55" width="20.49" height="8" fill="#f34b7d"/><rect x="334.38" y="55" width="14.47" height="8" fill="#3572A5"/><rect x="348.86" y="55" width="3.69" height="8" fill="#555555"/><rect x="352.55" y="55" width="1.37" height="8" fill="#f1e05a"/></g>
+  <circle cx="30" cy="91" r="5" fill="#3178c6"/><text x="41" y="95" class="l">TypeScript <tspan class="s">78.0%</tspan></text>
+  <circle cx="205" cy="91" r="5" fill="#e34c26"/><text x="216" y="95" class="l">HTML <tspan class="s">9.5%</tspan></text>
+  <circle cx="30" cy="119" r="5" fill="#f34b7d"/><text x="41" y="123" class="l">C++ <tspan class="s">6.2%</tspan></text>
+  <circle cx="205" cy="119" r="5" fill="#3572A5"/><text x="216" y="123" class="l">Python <tspan class="s">4.4%</tspan></text>
+  <circle cx="30" cy="147" r="5" fill="#555555"/><text x="41" y="151" class="l">C <tspan class="s">1.1%</tspan></text>
+  <circle cx="205" cy="147" r="5" fill="#f1e05a"/><text x="216" y="151" class="l">JavaScript <tspan class="s">0.4%</tspan></text>
+</svg>
