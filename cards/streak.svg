@@ -10,7 +10,7 @@
   
   <line x1="165" y1="30" x2="165" y2="165" stroke="#9AA5CE" stroke-opacity="0.3"/>
   <line x1="330" y1="30" x2="330" y2="165" stroke="#9AA5CE" stroke-opacity="0.3"/>
-  <text x="82" y="86" class="big" text-anchor="middle" fill="#FFFFFF" style="fill:#FFFFFF">36</text>
+  <text x="82" y="86" class="big" text-anchor="middle" fill="#FFFFFF" style="fill:#FFFFFF">75</text>
   <text x="82" y="128" class="l" text-anchor="middle" style="fill:#C792EA">Total Contributions</text>
   <text x="82" y="150" class="s" text-anchor="middle">Jan 22, 2025 - Present</text>
   <circle cx="247" cy="76" r="34" fill="none" stroke="#C792EA" stroke-width="5"/>

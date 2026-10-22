@@ -8,11 +8,11 @@
   </style>
   <rect x="0.5" y="0.5" rx="4.5" width="379" height="224" fill="#0D1117" stroke="#C792EA"/>
   <text x="25" y="35" class="t">Most Used Languages</text>
-  <clipPath id="r"><rect x="25" y="55" width="330" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="55" width="210.33" height="8" fill="#3178c6"/><rect x="235.33" y="55" width="103.25" height="8" fill="#e34c26"/><rect x="338.57" y="55" width="11.53" height="8" fill="#3572A5"/><rect x="350.10" y="55" width="2.89" height="8" fill="#f34b7d"/><rect x="353.00" y="55" width="1.12" height="8" fill="#f1e05a"/><rect x="354.11" y="55" width="0.89" height="8" fill="#663399"/></g>
-  <circle cx="30" cy="91" r="5" fill="#3178c6"/><text x="41" y="95" class="l">TypeScript <tspan class="s">63.7%</tspan></text>
-  <circle cx="205" cy="91" r="5" fill="#e34c26"/><text x="216" y="95" class="l">HTML <tspan class="s">31.3%</tspan></text>
-  <circle cx="30" cy="119" r="5" fill="#3572A5"/><text x="41" y="123" class="l">Python <tspan class="s">3.5%</tspan></text>
-  <circle cx="205" cy="119" r="5" fill="#f34b7d"/><text x="216" y="123" class="l">C++ <tspan class="s">0.9%</tspan></text>
-  <circle cx="30" cy="147" r="5" fill="#f1e05a"/><text x="41" y="151" class="l">JavaScript <tspan class="s">0.3%</tspan></text>
-  <circle cx="205" cy="147" r="5" fill="#663399"/><text x="216" y="151" class="l">CSS <tspan class="s">0.3%</tspan></text>
+  <clipPath id="r"><rect x="25" y="55" width="330" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="55" width="309.21" height="8" fill="#3178c6"/><rect x="334.21" y="55" width="15.98" height="8" fill="#3572A5"/><rect x="350.19" y="55" width="2.42" height="8" fill="#f1e05a"/><rect x="352.61" y="55" width="1.36" height="8" fill="#663399"/><rect x="353.97" y="55" width="0.95" height="8" fill="#e34c26"/><rect x="354.91" y="55" width="0.09" height="8" fill="#89e051"/></g>
+  <circle cx="30" cy="91" r="5" fill="#3178c6"/><text x="41" y="95" class="l">TypeScript <tspan class="s">93.7%</tspan></text>
+  <circle cx="205" cy="91" r="5" fill="#3572A5"/><text x="216" y="95" class="l">Python <tspan class="s">4.8%</tspan></text>
+  <circle cx="30" cy="119" r="5" fill="#f1e05a"/><text x="41" y="123" class="l">JavaScript <tspan class="s">0.7%</tspan></text>
+  <circle cx="205" cy="119" r="5" fill="#663399"/><text x="216" y="123" class="l">CSS <tspan class="s">0.4%</tspan></text>
+  <circle cx="30" cy="147" r="5" fill="#e34c26"/><text x="41" y="151" class="l">HTML <tspan class="s">0.3%</tspan></text>
+  <circle cx="205" cy="147" r="5" fill="#89e051"/><text x="216" y="151" class="l">Shell <tspan class="s">0.0%</tspan></text>
 </svg>
