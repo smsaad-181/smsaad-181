@@ -8,11 +8,11 @@
   </style>
   <rect x="0.5" y="0.5" rx="4.5" width="379" height="224" fill="#0D1117" stroke="#C792EA"/>
   <text x="25" y="35" class="t">Most Used Languages</text>
-  <clipPath id="r"><rect x="25" y="55" width="330" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="55" width="288.18" height="8" fill="#3178c6"/><rect x="313.18" y="55" width="15.67" height="8" fill="#3572A5"/><rect x="328.84" y="55" width="14.41" height="8" fill="#ff5a03"/><rect x="343.25" y="55" width="5.77" height="8" fill="#f1e05a"/><rect x="349.02" y="55" width="3.59" height="8" fill="#fcb32c"/><rect x="352.61" y="55" width="2.35" height="8" fill="#663399"/></g>
-  <circle cx="30" cy="91" r="5" fill="#3178c6"/><text x="41" y="95" class="l">TypeScript <tspan class="s">87.3%</tspan></text>
+  <clipPath id="r"><rect x="25" y="55" width="330" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="55" width="286.89" height="8" fill="#3178c6"/><rect x="311.89" y="55" width="15.60" height="8" fill="#3572A5"/><rect x="327.49" y="55" width="15.57" height="8" fill="#ff5a03"/><rect x="343.06" y="55" width="5.75" height="8" fill="#f1e05a"/><rect x="348.80" y="55" width="3.57" height="8" fill="#fcb32c"/><rect x="352.38" y="55" width="2.58" height="8" fill="#663399"/></g>
+  <circle cx="30" cy="91" r="5" fill="#3178c6"/><text x="41" y="95" class="l">TypeScript <tspan class="s">86.9%</tspan></text>
   <circle cx="205" cy="91" r="5" fill="#3572A5"/><text x="216" y="95" class="l">Python <tspan class="s">4.7%</tspan></text>
-  <circle cx="30" cy="119" r="5" fill="#ff5a03"/><text x="41" y="123" class="l">Astro <tspan class="s">4.4%</tspan></text>
+  <circle cx="30" cy="119" r="5" fill="#ff5a03"/><text x="41" y="123" class="l">Astro <tspan class="s">4.7%</tspan></text>
   <circle cx="205" cy="119" r="5" fill="#f1e05a"/><text x="216" y="123" class="l">JavaScript <tspan class="s">1.7%</tspan></text>
   <circle cx="30" cy="147" r="5" fill="#fcb32c"/><text x="41" y="151" class="l">MDX <tspan class="s">1.1%</tspan></text>
-  <circle cx="205" cy="147" r="5" fill="#663399"/><text x="216" y="151" class="l">CSS <tspan class="s">0.7%</tspan></text>
+  <circle cx="205" cy="147" r="5" fill="#663399"/><text x="216" y="151" class="l">CSS <tspan class="s">0.8%</tspan></text>
 </svg>
